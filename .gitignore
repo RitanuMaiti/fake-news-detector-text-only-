@@ -1,0 +1,22 @@
+﻿# Environment variables & secrets
+.env
+*.env
+*.env.*
+frontend.env
+backend/env.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+env/
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Large datasets
+*.csv
